@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a dedicated data scientist with a passion for
 
 💻 **Programming languages and tools:** Python, R, TensorFlow, Keras, PyTorch, SQL, Tableau, Git, and more.
 
-📫 **How to reach me:** You can connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile-link) or drop me an email at [mwassdennoh7@gmail.com].
+📫 **How to reach me:** You can connect with me on [LinkedIn](https://www.linkedin.com/in/denis-mwangi-371163260) or drop me an email at [mwassdennoh7@gmail.com].
 
 
 
