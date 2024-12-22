@@ -21,7 +21,7 @@ Pursuing a Bachelor's Degree in Computer Science at Chuka University (in progres
 I am always receptive to collaborative ventures in data-driven projects. Don't hesitate to reach out if you're keen on collaborating or exploring exciting prospects together.
 
 ### 💻 Programming Languages and Tools:
-Python, R, TensorFlow, Keras, PyTorch, SQL, Tableau, Git, and more.
+Python, R, TensorFlow, huggingface, Keras, PyTorch, SQL, Tableau, Git, and more.
 
 ### 📫 How to Reach Me:
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername) or drop an email at mwassdennoh7@gmail.com.
