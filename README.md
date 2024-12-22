@@ -15,7 +15,7 @@ Machine Learning, Deep Learning, Natural Language Processing, Time Series Analys
 I have actively collaborated on various data science projects, fostering practical expertise in deciphering intricate datasets, constructing predictive models, and extracting invaluable insights. My unwavering enthusiasm to embrace novel challenges fuels my ongoing quest to expand my domain knowledge.
 
 ### 📚 Education:
-Pursuing a Bachelor's Degree in Computer Science at Chuka University (in progress), with a dedicated focus on data science and machine learning.
+Pursuing a Bachelor's Degree in Computer Science at Chuka University (in progress), with a dedicated focus on data science and machine learning Done Azure big data certification.
 
 ### 👯 Collaboration:
 I am always receptive to collaborative ventures in data-driven projects. Don't hesitate to reach out if you're keen on collaborating or exploring exciting prospects together.
